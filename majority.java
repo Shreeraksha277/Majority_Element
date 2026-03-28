@@ -11,7 +11,7 @@ class Solution {
             }
 
             // If same → increase count, else decrease
-            if (num == candidate) {
+             if (num == candidate) {
                 count++;
             } else {
                 count--;
