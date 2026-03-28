@@ -3,7 +3,7 @@ class Solution {
         int count = 0;
         int candidate = 0;
 
-        for (int num : nums) {
+         for (int num : nums) {
             
             // If count becomes 0, choose new candidate
             if (count == 0) {
