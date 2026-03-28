@@ -15,7 +15,7 @@ class Solution {
                 count++;
             } else {
                 count--;
-            }
+             }
         }
 
         // Final candidate is the majority element
